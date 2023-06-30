@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"questao2","c":"HelloWorld","l":"HelloWorld()","u":"%3Cinit%3E()"},{"p":"questao4","c":"Smartphone","l":"ligar()"},{"p":"questao2","c":"HelloWorld","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"questao4","c":"Smartphone","l":"Smartphone(double)","u":"%3Cinit%3E(double)"}];updateSearchResults();
